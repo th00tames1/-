@@ -1,0 +1,16 @@
+2011-2020 Spring	
+Start Date	Seasonal Length	
+3-15	71	
+
+2011-2020 Summer	
+Start Date	Seasonal Length	
+5-25	129	
+
+2011-2020 Autumm	
+Start Date	Seasonal Length	
+10-1	62	
+
+2011-2020 Winter	
+Start Date	Seasonal Length	
+12-2	103	
+

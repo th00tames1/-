@@ -1,0 +1,16 @@
+2031-2040 Spring	
+Start Date	Seasonal Length	
+3-13	69	
+
+2031-2040 Summer	
+Start Date	Seasonal Length	
+5-21	133	
+
+2031-2040 Autumm	
+Start Date	Seasonal Length	
+10-1	63	
+
+2031-2040 Winter	
+Start Date	Seasonal Length	
+12-3	100	
+

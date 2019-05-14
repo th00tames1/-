@@ -1,0 +1,16 @@
+2021-2030 Spring	
+Start Date	Seasonal Length	
+2-27	85	
+
+2021-2030 Summer	
+Start Date	Seasonal Length	
+5-23	130	
+
+2021-2030 Autumm	
+Start Date	Seasonal Length	
+9-30	51	
+
+2021-2030 Winter	
+Start Date	Seasonal Length	
+11-20	99	
+

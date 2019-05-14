@@ -1,0 +1,16 @@
+2041-2070 Spring	
+Start Date	Seasonal Length	
+2-26	79	
+
+2041-2070 Summer	
+Start Date	Seasonal Length	
+5-16	142	
+
+2041-2070 Autumm	
+Start Date	Seasonal Length	
+10-5	60	
+
+2041-2070 Winter	
+Start Date	Seasonal Length	
+12-4	84	
+

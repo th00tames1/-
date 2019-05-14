@@ -1,0 +1,16 @@
+2071-2080 Spring	
+Start Date	Seasonal Length	
+2-11	78	
+
+2071-2080 Summer	
+Start Date	Seasonal Length	
+4-30	9	
+
+2071-2080 Autumm	
+Start Date	Seasonal Length	
+5-9	219	
+
+2071-2080 Winter	
+Start Date	Seasonal Length	
+12-14	59	
+

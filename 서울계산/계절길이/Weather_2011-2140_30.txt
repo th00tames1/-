@@ -1,0 +1,16 @@
+2071-2100 Spring	
+Start Date	Seasonal Length	
+2-18	71	
+
+2071-2100 Summer	
+Start Date	Seasonal Length	
+4-30	172	
+
+2071-2100 Autumm	
+Start Date	Seasonal Length	
+10-19	55	
+
+2071-2100 Winter	
+Start Date	Seasonal Length	
+12-13	67	
+

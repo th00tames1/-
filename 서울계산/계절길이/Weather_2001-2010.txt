@@ -1,0 +1,16 @@
+2001-2010 Spring	
+Start Date	Seasonal Length	
+3-12	75	
+
+2001-2010 Summer	
+Start Date	Seasonal Length	
+5-26	126	
+
+2001-2010 Autumm	
+Start Date	Seasonal Length	
+9-29	64	
+
+2001-2010 Winter	
+Start Date	Seasonal Length	
+12-2	100	
+

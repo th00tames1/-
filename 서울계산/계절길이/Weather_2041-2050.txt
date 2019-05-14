@@ -1,0 +1,16 @@
+2041-2050 Spring	
+Start Date	Seasonal Length	
+2-28	81	
+
+2041-2050 Summer	
+Start Date	Seasonal Length	
+5-20	136	
+
+2041-2050 Autumm	
+Start Date	Seasonal Length	
+10-3	61	
+
+2041-2050 Winter	
+Start Date	Seasonal Length	
+12-3	87	
+
